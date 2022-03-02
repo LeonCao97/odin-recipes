@@ -1,0 +1,25 @@
+.chefPic {
+/*    width: 842;
+    height: 928; */
+    width: 280px;
+    height: 309px;
+}
+
+.header {
+    text-align: center;
+}
+
+
+.orange {
+    background-color: orange;
+    color: black
+}
+
+.pizza {
+    background-color: red;
+    color: black
+}
+
+.milk {
+    background-color: gray;
+}
